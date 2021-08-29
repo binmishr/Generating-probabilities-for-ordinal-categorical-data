@@ -1,0 +1,1 @@
+# Generating-probabilities-for-ordinal-categorical-data
